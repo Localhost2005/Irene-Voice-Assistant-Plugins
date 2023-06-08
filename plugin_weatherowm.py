@@ -24,7 +24,7 @@ def start(core:VACore):
 """,
 
         "default_options": {
-            "apiKey": "e69e74f8cbd556a7df4db81301dda1a8", # get at https://openweathermap.org/
+            "apiKey": "", # get at https://openweathermap.org/
 
             "city": "Moscow",
             "country": "RU",
