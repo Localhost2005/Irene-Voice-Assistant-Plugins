@@ -13,5 +13,6 @@ WRatio дает лучший результат, чем простое соот�
 **plugin_fireplace.py**
 
 Плагин для воспроизведения видео камина на плеере Dune
+
 Dune HD API
 http://dune-hd.com/firmware/ip_control/dune_ip_control_overview.txt
