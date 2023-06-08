@@ -39,7 +39,6 @@ def predict(core:VACore, command:str, context:dict, allow_rest_phrase:bool = Tru
                 cmdsub = command
                 rest_phrase = ""
             # print("Subcmd: ",cmdsub,key)
-            print("Subcmd: ",cmdsub,key)
 
 #            res = fuzz.ratio(cmdsub,key) # для всех ключей вычисляем схожесть
             res = fuzz.WRatio(cmdsub,key) # для всех ключей вычисляем схожесть
