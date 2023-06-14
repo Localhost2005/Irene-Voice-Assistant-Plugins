@@ -30,7 +30,7 @@ def start(core:VACore):
             "put_accent": True,
             "put_yo": True,
             "speaker_by_assname": {
-                "николай|николаю": "aidar"
+                "ирина|ирины|ирину": "1_ru"
             }
         },
 
