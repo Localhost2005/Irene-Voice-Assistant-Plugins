@@ -18,7 +18,7 @@ def start(core:VACore):
         "require_online": False,
 
         "description": """
-        Сбор информации для обучения AI  (оффлайн).
+        Сбор информации для обучения AI  (оффлайн)...
         """,
 
         "commands": {
