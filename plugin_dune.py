@@ -43,7 +43,7 @@ def start(core:VACore):
     return manifest
 
 def start_with_options(core:VACore, manifest:dict):
-    print(manifest["options"])
+    # print(manifest["options"])
     global options
     options = manifest["options"]
     return manifest
