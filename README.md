@@ -20,7 +20,7 @@ https://maxbachmann.github.io/RapidFuzz/Usage/fuzz.html
 Dune HD API
 http://dune-hd.com/firmware/ip_control/dune_ip_control_overview.txt
 
-**irene_plugin_fuzzy_ai_sentence**
+**irene_plugin_fuzzy_ai_sentence**<br>
 https://github.com/janvarev/irene_plugin_fuzzy_ai_sentence
 
 Установка без NVIDIA только CPU<br>
